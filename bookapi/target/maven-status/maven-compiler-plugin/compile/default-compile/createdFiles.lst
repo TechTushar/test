@@ -1,0 +1,4 @@
+com\tusharpatil\spring\config\AppConfig.class
+com\tusharpatil\spring\model\Book.class
+com\tusharpatil\spring\config\MyWebAppInitializer.class
+com\tusharpatil\spring\config\WebConfig.class
